@@ -1,10 +1,8 @@
 // variables1.cairo
 // Make me compile!
-// Execute `starklings hint variables1` or use the `hint` watch subcommand for a hint.
-
-// I AM NOT DONE
+// Execute `starklings hint variables1` or use the `hint` watch subcommand for a hint. 
 
 fn main() {
-    x = 5 ;
+    let x = 5 ;
     println!(" x is {}", x)
 }
